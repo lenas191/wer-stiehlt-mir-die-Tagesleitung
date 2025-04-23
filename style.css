@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fce4ec;
+  color: #4a148c;
+  text-align: center;
+}
+
+#game-board {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
